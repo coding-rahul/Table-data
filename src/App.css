@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.mcontainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px;
+
+}
+
+.table {
+  border-collapse: collapse;
+  width: 570px;
+  margin: 0 0 40px 86px;
+
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+
+}
+
+th {
+  font-weight: 500;
+  text-align: left;
+}
+
+.icon {
+  width: 18px;
+
+}
